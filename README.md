@@ -1,4 +1,4 @@
-# mdh-nuget-modell
+# mdu-nuget-modell
 
 En modell för att hantera filer av typen packages.config i Java. Projektet
 innehåller en egen xsd baserad på
